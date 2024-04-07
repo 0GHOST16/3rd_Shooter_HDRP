@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cf0923b69380614da8700a0a1b9f2da, type: 3}
+  m_Name: PP-Bizon
+  m_EditorClassIdentifier: 
+  gunModel: {fileID: 919132149155446097, guid: 5ebdba9aa79f7e7428ff4fbaae52f457, type: 3}
+  SFX: {fileID: 8300000, guid: d2e6800ce9c147f4988f738519349c70, type: 3}
+  gunName: PP-Bizon
+  damage: 8
+  damageFrequency: 0.08
+  Ammo: 128
+  AmmoClip: 64

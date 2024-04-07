@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cf0923b69380614da8700a0a1b9f2da, type: 3}
+  m_Name: AR15
+  m_EditorClassIdentifier: 
+  gunModel: {fileID: 919132149155446097, guid: 6e6196acf2b62a740af4b45df614174f, type: 3}
+  SFX: {fileID: 8300000, guid: ac60f94e8d435e24082d1d3ea5fd5576, type: 3}
+  gunName: AR15
+  damage: 50
+  damageFrequency: 0.1
+  Ammo: 30
+  AmmoClip: 15
